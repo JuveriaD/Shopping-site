@@ -1,6 +1,6 @@
 # Shopping-site
 
-## 🛰 [click me to see the output](https://juveriad.github.io/Shopping-site/)
+## 🛰 [Shopping-site](https://juveriad.github.io/Shopping-site/)
 
 ## WORK IN PROGRESS
 
@@ -8,4 +8,3 @@
 
 #### &copy; - 2021 by [DJ](https://twitter.com/juveriia_)
 
-adding git file
