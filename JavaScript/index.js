@@ -1,7 +1,54 @@
-// variables in javascript;
-var a = 23;
-var b = 'juveria';
-console.log(a + b);
+// 1 - CONSOLE LOG , ERROR , WARNINGS AND MORE
+
+// time start
+// console.time('Your code took');
+
+// String
+// console.log('DJ');
+
+// Number
+// console.log(20);
+
+// Boolean
+// console.log(true);
+
+// Mixed array
+// console.log([23, 45, 'harry', false]);
+
+// Object
+/*console.log({
+	harry: 'world',
+	marks: 43
+});*/
+
+// Table
+/*console.table({
+	harry: 'world',
+	marks: 43
+});*/
+
+// Warning
+// console.warn('This is warning');
+
+// Error
+// console.error('This is an error');
+
+// Assert
+// console.assert(18 < 14, `age < 18 ,You can't drive`);
+
+// time end
+// console.timeEnd('Your code took');
+
+// will clear console
+// console.clear();
+// ----------------------------------
+
+// 2 - watch and take notes
+
+// -------------
+// Variables in javascript;
+var a = `juveria`;
+console.log(a);
 
 // Operators in JavaScript
 // Operand - entities on which operators operate
