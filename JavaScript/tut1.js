@@ -1,54 +1,54 @@
-// 1 - CONSOLE LOG , ERROR , WARNINGS AND MORE
+//? VIDEO_1 - CONSOLE LOG , ERROR , WARNINGS AND MORE
 
-// time start
+//* time start
 // console.time('Your code took');
 
-// String
+//* String
 // console.log('DJ');
 
-// Number
+//* Number
 // console.log(20);
 
-// Boolean
+//* Boolean
 // console.log(true);
 
-// Mixed array
+//* Array
+// console.log([23, 45, 6521 , 56]);
+
+//* Mixed Array
 // console.log([23, 45, 'harry', false]);
 
-// Object
+//* Object
 /*console.log({
 	harry: 'world',
 	marks: 43
 });*/
 
-// Table
+//* Table in object
 /*console.table({
 	harry: 'world',
 	marks: 43
 });*/
 
-// Warning
+//! Warning
 // console.warn('This is warning');
 
-// Error
+//! Error
 // console.error('This is an error');
 
-// Assert
+//! Assert
 // console.assert(18 < 14, `age < 18 ,You can't drive`);
 
-// time end
+//* time end
 // console.timeEnd('Your code took');
 
-// will clear console
+//* will clear console
 // console.clear();
-// ----------------------------------
 
-// 2 - watch and take notes
-
-// -------------
+// -----------------
 // Variables in javascript;
-var a = `juveria`;
-console.log(a);
+// var a = `juveria`;
+// console.log(a);
 
 // Operators in JavaScript
 // Operand - entities on which operators operate
@@ -62,8 +62,8 @@ console.log(a);
 // a = 3 + 5;
 // console.log(a);
 
-var num1 = 2;
-var num2 = 3;
+// var num1 = 2;
+// var num2 = 3;
 
 // ARITHEMATIC OPERATORS in action in JavaScript
 // 1. addition
