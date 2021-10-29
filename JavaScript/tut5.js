@@ -1,4 +1,4 @@
-//? VIDEO_5 - STRINGS, PROPERTIES, METHOS AND TEMPLATE LITERALS IN JAVASCRIPE
+//? VIDEO_5 - STRINGS, PROPERTIES, METHOS AND TEMPLATE LITERALS IN JAVASCRIPT
 console.log(`Tutorial-5`);
 
 const myName = `DJ`;
@@ -36,16 +36,3 @@ let myClass = `Hello I'm ${myName}
 <p> I'm learning from ${tutor}, ${channel} ,</p>`;
 
 document.body.innerHTML = myClass;
-
-
-
-
-
-
-
-
-
-
-
-
-
