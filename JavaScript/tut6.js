@@ -3,9 +3,9 @@ console.log(`Tutorial-6`);
 //! ARRAYS methods and properties
 
 let marks = [54, 67, 23, 54, 98, 65];
-console.log(marks);
+// console.log(marks);
 let valueMarks = marks.indexOf(98);
-console.log(valueMarks);
+// console.log(valueMarks);
 
 const fruits = [`apple, mango, banana, peru, grapes`];
 // console.log(fruits);
@@ -17,7 +17,7 @@ const arr = new Array(`ball`, `pencil`, 34, 23, `duck`);
 // console.log(arr[0]);
 
 // console.log(arr.length);
-// console.log(Array.isArray(``));
+// console.log(Array.isArray(arr));
 arr[`0`] = `juveria`;
 // console.log(arr);
 
@@ -25,25 +25,34 @@ let arrElement = arr[4];
 // console.log('element :', arrElement);
 
 //* MUTATING OR MODIFYING ARRAYS
-//! Methods changes original arrays
-marks.push(2000);
-console.log(marks);
+//! Below Methods changes original arrays
+// marks.push(2000);
 
-marks.unshift(10001);
-console.log(marks);
+// marks.unshift(10001);
 
-marks.pop();
+// marks.pop();
+
+// marks.shift();
+
+// marks.splice(1, 2);
+
+// marks.reverse();
+
+// let marks2 = [1, 2, 3, 4];
+// marks = marks.concat(marks2);
 // console.log(marks);
 
-marks.shift();
-console.log(marks);
 
-marks.splice(1, 2);
-console.log(marks);
+//! OBJECT'S methods and properties
 
-marks.reverse();
-console.log(marks);
+let myObj = {
+   'Full Name':`Juveria Dalvi`,
+    Course: `JavaScript`,
+    Tutor: `Haris Khan`,
+    'My progress': true,
+    languages:[`JavaScript`,`PHP`, `HTML & CSS`, 28]
+}
+console.log(myObj);
+console.log(myObj["Full Name"]);
+console.log(myObj.Tutor);
 
-let marks2 = [1, 2, 3, 4];
-marks = marks.concat(marks2);
-console.log(marks);
